@@ -4,7 +4,7 @@
   "description": "React Multi Select Component",
   "repository": {
     "type": "git",
-    "url": "https://github.com/khan/react-multi-select"
+    "url": "https://github.com/avinashiitb/react-multi-select"
   },
   "license": "MIT",
   "scripts": {
